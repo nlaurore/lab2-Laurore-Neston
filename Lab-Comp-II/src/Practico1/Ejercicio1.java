@@ -10,5 +10,7 @@ package Practico1;
  * @author Laurore
  */
 public class Ejercicio1 {
-    prueba git
+    public static void main(String[] args){
+        
+    }
 }
